@@ -1,0 +1,433 @@
+* {
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+.boh-logo {
+    display: block;
+    margin: 0 auto;
+    width: 100%
+}
+
+.bulletean-logo {
+    width: 6.5em;
+    margin-bottom: -.25em;
+}
+
+.headline {
+    text-align: center;
+}
+
+.chairman-photo {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+header p {
+    text-align: center;
+    margin: 0 .5em 3em;
+}
+
+.chairman-name {
+    color: #ef4224;
+    font-weight: bold;
+}
+
+.chairman-title {
+    font-style: italic;
+}
+
+.recipes-1 {
+    background-image: url(image/leaf-top.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.recipes-1-decoration {
+    width: 100%;
+    margin: 1em 0 .5em 0;
+}
+
+.recipes-1-background {
+    width: 100%;
+}
+
+.tip-1-img {
+    width: 70%;
+    height: 210.3px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+.tip-1 {
+    text-align: center;
+    background-color: white;
+    padding: 1em 0;
+    margin: 1em 1em 1em;
+}
+
+.article-1 h2 {
+    color: #ef4224;
+    text-transform: uppercase;
+}
+
+.tip-1 p {
+    margin: 1em 2.5em;
+}
+
+.article-1 a {
+    color:#ef4224;
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+.tip-2-img {
+    width: 70%;
+    height: 210.3px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+.tip-2 {
+    text-align: center;
+    background-color: white;
+    padding: 1em 0;
+    margin: 1em 1em 3em;
+}
+
+.tip-2 p {
+    margin: 1em 2.5em;
+}
+
+.article-2 h2 {
+    color: #ef4224;
+    text-transform: uppercase;
+}
+
+.article-2 a {
+    color:#ef4224;
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+.shop-now {
+    width: 100%;
+}
+
+.shop-now-section {
+    position: relative;
+}
+
+.shop-now-button {
+    position: absolute;
+    left: 36%;
+    top: 68%;
+    width: 30%;
+    height: 12%;
+    border-radius: 2em;
+    border: none;
+    font-weight: bold;
+    background-color: #ef4224;
+    color: white;
+}
+
+.shop-now-button a {
+    display: block;
+    color: white; 
+    text-decoration: none;
+
+}
+
+.recipes-2 {
+    background-image: url(image/leaf-bottom.png);
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.recipes-2-decoration-1 {
+    width: 100%;
+    margin: 2em 0 .5em 0;
+}
+
+.recipes-2-background {
+    width: 100%;
+}
+
+.tip-3 {
+    background-color: white;
+    padding: 1em 0;
+    margin: 1em 1em 1em;
+}
+
+.tip-3 p {
+    margin: 1em 2.5em;
+}
+
+.tip-3-img {
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.article-3 {
+    text-align: center;
+    margin: 1em;
+    background-color: white;
+}
+
+.article-3 h2 {
+    color: #ef4224;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 1em 1em 1em;
+}
+
+.article-3 a {
+    color:#ef4224;
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+.tip-4 {
+    background-color:white;
+    padding: 1em 0;
+    margin: 1em 1em 1em;
+}
+
+.tip-4 p {
+    margin: 1em 2.5em;
+}
+
+.tip-4-img {
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.article-4 {
+    text-align: center;
+    margin: 1em;
+    background-color: white;
+}
+
+.article-4 h2 {
+    color: #ef4224;
+    text-transform: uppercase;
+    margin: 1em 1em 1em;
+}
+
+.article-4 a {
+    color:#ef4224;
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+.recipes-2-decoration-2 {
+    width: 100%;
+}
+
+.recipes-2-background {
+    display: block;
+}
+
+.recipes-2-decoration-2 {
+    margin-top: 2%
+}
+
+.social-links {
+    text-align: center;
+}
+
+.social-links h2 {
+    font-weight: normal;
+}
+
+#boh-memories {
+    font-weight: bold;
+}
+
+.social-links span {
+    color: #ef4224;
+}
+
+.social-links img{
+    display: inline-block;
+    width: 15%
+}
+
+#add-the-bohtea {
+    display: block;
+    margin: 1em 1em 2em;
+    font-size: 1.3em;
+}
+
+#hashtag {
+    font-weight: bold;
+}
+
+.location {
+    background-color: #f1f1f1;
+    padding: .5em;
+    margin: 0;
+    text-align: center;
+}
+
+.location-name,
+.location-address{
+    color: #ef4224;
+}
+
+.location-name {
+    display: inline-block;
+    margin: 0;
+    font-weight: bold;
+}
+
+.location-address {
+    font-style: italic;
+    display: inline-block;
+    margin: 0 0 1em;
+}
+
+#headquarters {
+    margin: 0 0 1em;
+}
+
+.location-1,
+.location-2,
+.location-3 {
+    margin: 2em 1em;
+}
+
+.mco {
+    color: white;
+    font-weight: bold;
+    background-color:#ef4224;
+    padding: 1em;
+    margin: 0;
+}
+
+
+@media (min-width: 769px) {
+    header {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .tip-1-img {
+        width: 35%;
+        height: 35%;
+        object-fit: none;
+        display: block;
+        float: left;
+        margin: 0 25px;
+    }
+
+    .clearfix::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+
+    .article-1 {
+     display: inline-block;
+     width: 50%;
+     height: 50%
+     margin-right: -5%;
+     margin-top: 5%;
+     margin-bottom: 5%;
+    }
+
+    .tip-1 {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .tip-2-img {
+        width: 35%;
+        height: 35%;
+        object-fit: none;
+        display: block;
+        float: right;
+        margin: 0 25px;
+    }
+
+    .article-2 {
+        display: inline-block;
+        width: 50%;
+        height: 50%
+        margin-right: -5%;
+        margin-top: 5%;
+        margin-bottom: 5%;
+       }
+
+    .tip-2 {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .recipes-2 {
+        text-align: center;
+    }
+
+    .tip-3 {
+        display: inline-block;
+        width: 40%;
+        margin-bottom: 10%;
+
+    }
+
+    .tip-4 {
+        display: inline-block;
+        width: 40%;
+    }
+
+    .social-links h2 {
+        font-size: 2em;
+    }
+
+    .social-links img {
+        width: 12%;
+    }
+
+    .location-1,
+    .location-2,
+    .location-3 {
+        display: inline-block;
+        width: 20%;
+        margin: 0 5%;
+        text-align: left;
+    }
+
+}
+
+@media (min-width: 1025px) {
+
+    .headline {
+        font-size: 2.5em;
+    }
+
+    .tip-1 {
+        width: 100%;
+        margin: 0 auto;
+        max-width: 1400px;
+    }
+
+    .tip-2 {
+        width: 100%;
+        margin: 0 auto;
+        max-width: 1400px;
+    }
+
+    .article-1 {
+        margin-top: 15%;
+    }
+
+    .article-2 {
+        margin-top: 15%;
+       }
+}
